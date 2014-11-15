@@ -1,0 +1,33 @@
+body {
+    background-color: cornsilk;
+}
+h3 {
+    color: navy;
+	font-size: 18px;
+    margin-left: 10px;
+	font-weight: bold;
+}
+h5 {
+    color: navy;
+	font-size: 14px;
+    margin-left: 10px;
+	font-weight: bold;
+}
+
+p {
+    text-align: left;
+    color: navy;
+	font-size: 14px;
+	font-weight: bold;
+	margin-left: 10px;
+}
+
+
+div cityback {
+    background: url(image/Free-Chicago-Beaches.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    border: 10px solid black;
+    padding: 195px;
+}
+
